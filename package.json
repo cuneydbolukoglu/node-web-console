@@ -1,0 +1,23 @@
+{
+  "name": "web-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Cüneyd",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.12.0",
+    "fastify-ws": "^1.0.3",
+    "node-ssh": "^13.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "nodemon": "^2.0.2"
+  }
+}

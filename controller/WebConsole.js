@@ -9,7 +9,7 @@ module.exports = async (ws, req) => {
     port: "22",
     username: "test",
     password: "1234",
-    // privateKey: "/home/codingtown/Downloads/ct-dev-tools.pem"
+    // privateKey: "privateKey" // pem file import
   };
 
   await ssh.connect(sshConfig);

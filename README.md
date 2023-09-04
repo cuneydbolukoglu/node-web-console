@@ -7,11 +7,9 @@ In the project directory, you can run:
  $ npm start
 ```
 
-```js
 Arayüzü görmek için aşağıdaki komutlar ile node js projesi dışında react projesi kuruyoruz adımları aşağıda sırasıyla mevcuttur. Projede console a istek atılıp console dan dönen mesajları ekranda gösteriyoruz.
 
 localhost:3001 ile listen edebilirsiniz değiştirmek isterseniz index.js üzerinden değişiklikleri yapabilirsiniz.
-```
 
 ```js
 $ create-react-app ssh-terminal-app

@@ -1,8 +1,8 @@
-To install npm dependencies run
+Npm bağımlılıklarını yüklemek için çalıştırın:
 ```js
  $ npm install
 ```
-In the project directory, you can run:
+Proje dizininde start komutunu çalıştırabilirsiniz:
 ```js
  $ npm start
 ```

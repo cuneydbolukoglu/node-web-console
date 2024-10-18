@@ -1,15 +1,15 @@
-Npm bağımlılıklarını yüklemek için çalıştırın:
+To install npm dependencies, run:
 ```js
  $ npm install
 ```
-Proje dizininde start komutunu çalıştırabilirsiniz:
+You can run the start command in the project directory:
 ```js
  $ npm start
 ```
 
-Arayüzü görmek için aşağıdaki komutlar ile node js projesi dışında react projesi kuruyoruz adımları aşağıda sırasıyla mevcuttur. Projede console a istek atılıp console dan dönen mesajları ekranda gösteriyoruz.
+To see the interface, we set up a react project outside of the node js project with the following commands, the steps are listed below in order. In the project, we send a request to the console and display the messages returned from the console on the screen.
 
-localhost:3001 ile listen edebilirsiniz değiştirmek isterseniz index.js üzerinden değişiklikleri yapabilirsiniz.
+You can listen with localhost:3001, if you want to change, you can make changes via index.js.
 
 ```js
 $ create-react-app ssh-terminal-app
